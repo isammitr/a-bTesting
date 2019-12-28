@@ -48,4 +48,4 @@ and the number of times the new_page and treatment don't line up.
   - By setting the hypotheses and performing Logistic regression, it was concluded that user's location does not influence the
   conversion of a page.
   
-- Lastly, it was concluded that we *fail to reject the null hypothesis* for the above perfromed A/B Tests. That means *the new page must not be launched*.
+- Lastly, it was concluded that we **fail to reject the null hypothesis** for the above perfromed A/B Tests. That means **the new page must not be launched**.
